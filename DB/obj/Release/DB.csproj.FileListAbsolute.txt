@@ -1,0 +1,7 @@
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\bin\Release\DB.exe
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\bin\Release\DB.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\obj\Release\DB.csproj.AssemblyReference.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\obj\Release\DB.csproj.SuggestedBindingRedirects.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\obj\Release\DB.csproj.CoreCompileInputs.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\obj\Release\DB.exe
+D:\Carpeta Proyectos\Semana08BD\Semana08\DB\obj\Release\DB.pdb

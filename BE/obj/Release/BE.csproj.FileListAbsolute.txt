@@ -1,0 +1,6 @@
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Release\BE.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Release\BE.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Release\BE.csproj.AssemblyReference.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Release\BE.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Release\BE.pdb

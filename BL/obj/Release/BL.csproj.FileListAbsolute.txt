@@ -1,0 +1,11 @@
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\BL.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\BL.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\BE.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\DB.exe
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\BE.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\bin\Release\DB.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\obj\Release\BL.csproj.AssemblyReference.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\obj\Release\BL.csproj.CopyComplete
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\obj\Release\BL.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BL\obj\Release\BL.pdb

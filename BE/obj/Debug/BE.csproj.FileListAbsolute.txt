@@ -1,0 +1,12 @@
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Debug\BE.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Debug\BE.pdb
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.dll
+D:\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.pdb
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Debug\BE.dll
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\bin\Debug\BE.pdb
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.dll
+E:\Backups\Carpeta Proyectos\Semana08BD\Semana08\BE\obj\Debug\BE.pdb
